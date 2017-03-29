@@ -15,7 +15,7 @@
           <li class="dropdown">
             <a
                   href="#"
-                  class="dropdown-toggle" 
+                  class="dropdown-toggle"
                   data-toggle="dropdown"
                   role="button"
                   aria-haspopup="true"
