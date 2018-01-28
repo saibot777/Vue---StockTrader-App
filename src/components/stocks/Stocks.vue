@@ -2,6 +2,7 @@
   <div>
     <app-stock 
       v-for="stock in stocks" 
+      :stock="stock"
       v-bind:key="stock.id">
     </app-stock>
   </div>
