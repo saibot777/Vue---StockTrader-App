@@ -23,13 +23,13 @@ const actions = {
     rendomizeStocks: ({ commit }) => {
         commit('RND_STOCKS');
     }
-}
+};
 
 const getters = {
     stocks: state => {
         return state.stocks;
     }
-}
+};
 
 export default {
     state,
